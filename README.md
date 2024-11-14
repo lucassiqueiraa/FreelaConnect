@@ -9,7 +9,7 @@
 
 # FreelaConnect Project
 
-is an application developed in PHP, Laravel and Livewire, where freelancers can send proposals for the hours they can contribute to a given project.
+It's an application developed in PHP, Laravel and Livewire, where freelancers can send proposals for the hours they can contribute to a given project.
 
 ![main](https://i.imgur.com/l2hpHY6.png)
 
